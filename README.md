@@ -97,10 +97,3 @@ If you’re currently at this point in DAE: learn the patterns, experiment with 
 
 ### ⚖️ License
 This repository is licensed under the **MIT License** — explore, adapt, and learn freely.
-
----
-
-*Built with templates, patterns, and the eternal struggle against circular dependencies 🔁  
-— Ádám*
-
-
